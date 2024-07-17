@@ -1,3 +1,2 @@
-# Com Prog Guide For Intania 108
-
-Code For 2110101 Com Prog Python
+Intania 108 : Goal To CP51 Kit
+By Nine #1 General (Chatrphol)
