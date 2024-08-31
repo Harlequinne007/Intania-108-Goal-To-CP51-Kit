@@ -7,3 +7,12 @@ Education :
 - Triam Udom Suksa School (Arts-Mathematics) 2021-2024
 - Chulalongkorn University (General Engineering) 2024-2028
 
+Interests :
+- Technology
+- Computer Engineering
+- Economics & Finance
+
+Hobby :
+- True Crime
+- Youtube
+- Logic  
